@@ -37,8 +37,8 @@ Feel free to contribute! If you want to improve an example or add new content, y
 ## 📩 Contact
 For feedback, suggestions, or help, contact:
 ```
-### Ibrar Ali
-Research Associate & MERN Stack Developer
+Ibrar Ali
+Research Associate - Full-Stack Developer
 📧 [info@apenapps.com]
 🌐 (Apen Apps - Website)[www.apenapps.com] 
 ```
